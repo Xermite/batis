@@ -1,5 +1,6 @@
+package ysk.learning.batis;
+
 import org.junit.Test;
-import ysk.learning.Calc;
 
 import static org.junit.Assert.assertEquals;
 
