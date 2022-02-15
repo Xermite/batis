@@ -8,3 +8,11 @@
 /dataSources.local.xml
 #数据库连接文件
 
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
